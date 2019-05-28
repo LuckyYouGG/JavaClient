@@ -1,0 +1,1011 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="班级2:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/team/lj/JFrame/LoginJframe.java" line="115" />
+    <bookmark url="file://$PROJECT_DIR$/../Server/src/team/lj/Communction/CommunctionServer.java" line="87" />
+    <bookmark url="file://$PROJECT_DIR$/src/team/lj/UpDownFiles/updownfiles.java" line="53" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ec6691d3-e263-4c1b-bf55-8cc87ca06701" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="班级管理系统: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="班级管理系统: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="info_everyone: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="班级2" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/team/lj/Communction/JCommunction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="101" column="22" selection-start-line="101" selection-start-column="22" selection-end-line="101" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>jTextPane1_1</find>
+      <find>Op</find>
+      <find>O</find>
+      <find>Default</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/team/lj/src/Music.java" />
+        <option value="$PROJECT_DIR$/.idea/encodings.xml" />
+        <option value="$PROJECT_DIR$/src/team/lj/src/Game.java" />
+        <option value="$PROJECT_DIR$/src/team/lj/Tanke/Wall.java" />
+        <option value="$PROJECT_DIR$/src/team/lj/Tanke/Steel.java" />
+        <option value="$PROJECT_DIR$/src/team/lj/Tanke/River.java" />
+        <option value="$PROJECT_DIR$/src/team/lj/Tanke/Item.java" />
+        <option value="$PROJECT_DIR$/src/team/lj/Tanke/Grass.java" />
+        <option value="$PROJECT_DIR$/src/team/lj/Tanke/Field.java" />
+        <option value="$PROJECT_DIR$/src/team/lj/Tanke/Explode.java" />
+        <option value="$PROJECT_DIR$/src/team/lj/Tanke/Bullet.java" />
+        <option value="$PROJECT_DIR$/src/team/lj/Tanke/Image/map/Blood.java" />
+        <option value="$PROJECT_DIR$/src/team/lj/Tanke/Blood.java" />
+        <option value="$PROJECT_DIR$/src/team/lj/Tanke/Tank.java" />
+        <option value="$PROJECT_DIR$/src/team/lj/Tanke/Enemy.java" />
+        <option value="$PROJECT_DIR$/src/team/lj/Tanke/Base.java" />
+        <option value="$PROJECT_DIR$/src/team/lj/Tanke/Music.java" />
+        <option value="$PROJECT_DIR$/src/team/lj/Snake/SnakeJPanel.java" />
+        <option value="$PROJECT_DIR$/src/team/lj/Tetris/Tetris.java" />
+        <option value="$PROJECT_DIR$/src/team/lj/Tetris/TetrisJFrame.java" />
+        <option value="$PROJECT_DIR$/src/team/lj/Communction/Msginfo.java" />
+        <option value="$PROJECT_DIR$/src/team/lj/UpDownFiles/MyPanel.java" />
+        <option value="$PROJECT_DIR$/src/team/lj/UpDownFiles/updownfiles.java" />
+        <option value="$PROJECT_DIR$/src/team/lj/JFrame/CtrlMusic.java" />
+        <option value="$PROJECT_DIR$/src/team/lj/Music/Audiotest.java" />
+        <option value="$PROJECT_DIR$/src/team/lj/Notice/JNoticeView.java" />
+        <option value="$PROJECT_DIR$/src/team/lj/Vote/JVote.java" />
+        <option value="$PROJECT_DIR$/src/team/lj/Vote/UpdateVote.java" />
+        <option value="$PROJECT_DIR$/src/team/lj/JFrame/ManageInfoSocket.java" />
+        <option value="$PROJECT_DIR$/src/team/lj/JFrame/ChangeInfo.java" />
+        <option value="$PROJECT_DIR$/src/team/lj/Log/LogInfo.java" />
+        <option value="$PROJECT_DIR$/src/team/lj/Log/JLog.java" />
+        <option value="$PROJECT_DIR$/src/team/lj/Music/Sound1.java" />
+        <option value="$PROJECT_DIR$/src/team/lj/Tanke/UI.java" />
+        <option value="$PROJECT_DIR$/src/team/lj/Tanke/Game.java" />
+        <option value="$PROJECT_DIR$/src/team/lj/Music/JMusic.java" />
+        <option value="$PROJECT_DIR$/src/team/lj/DrawPic/ScreenImage.java" />
+        <option value="$PROJECT_DIR$/src/team/lj/DrawPic/ImageBoard.java" />
+        <option value="$PROJECT_DIR$/src/team/lj/DrawPic/ScreenSavers.java" />
+        <option value="$PROJECT_DIR$/src/team/lj/Communction/CommClient.java" />
+        <option value="$PROJECT_DIR$/src/team/lj/Log/LogClient.java" />
+        <option value="$PROJECT_DIR$/src/team/lj/Notice/NoticeSocket.java" />
+        <option value="$PROJECT_DIR$/src/team/lj/UpDownFiles/TCPSingleClient.java" />
+        <option value="$PROJECT_DIR$/src/team/lj/UpDownFiles/TCPsetting.java" />
+        <option value="$PROJECT_DIR$/src/team/lj/JFrame/LoginJframe.java" />
+        <option value="$PROJECT_DIR$/src/team/lj/PersonalInfo/MyInfo.java" />
+        <option value="$PROJECT_DIR$/src/team/lj/Notice/JNoticeMain.java" />
+        <option value="$PROJECT_DIR$/src/team/lj/JFrame/MainJFrame.java" />
+        <option value="$PROJECT_DIR$/src/team/lj/Vote/JMainVote.java" />
+        <option value="$PROJECT_DIR$/src/team/lj/Communction/JChat.java" />
+        <option value="$PROJECT_DIR$/src/team/lj/Communction/JCommunction.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="267" />
+    <option name="y" value="101" />
+    <option name="width" value="1565" />
+    <option name="height" value="1103" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="班级2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="班级2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="班级2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="班级2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="班级2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="班级2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lj" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="班级2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="班级2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lj" type="462c0819:PsiDirectoryNode" />
+              <item name="Communction" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.STATE" value="right" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.STATE" value="left" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="432" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554307016812" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Idea-workplace\班级2\picEveryone" />
+      <recent name="D:\Idea-workplace\班级2\res" />
+      <recent name="D:\Idea-workplace\班级2" />
+      <recent name="D:\Idea-workplace\班级2\src\team\lj\Tanke" />
+      <recent name="D:\Idea-workplace\班级2\src\Image\UI" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="team.lj.Communction" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Idea-workplace\班级2\res" />
+      <recent name="D:\Idea-workplace\班级2\background" />
+      <recent name="D:\Idea-workplace\班级2\picEveryone" />
+      <recent name="D:\Idea-workplace\班级2\sanke" />
+      <recent name="D:\Idea-workplace\班级2\src\Image\UI" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.LoginJframe">
+    <configuration name="ChangeInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="team.lj.JFrame.ChangeInfo" />
+      <module name="班级2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="team.lj.JFrame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JMusic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="team.lj.Music.JMusic" />
+      <module name="班级2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="team.lj.Music.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginJframe" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="team.lj.JFrame.LoginJframe" />
+      <module name="班级2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="team.lj.JFrame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="班级2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainJFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="team.lj.JFrame.MainJFrame" />
+      <module name="班级2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="team.lj.Music.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ChangeInfo" />
+      <item itemvalue="Application.JMusic" />
+      <item itemvalue="Application.LoginJframe" />
+      <item itemvalue="Application.MainJFrame" />
+      <item itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LoginJframe" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ChangeInfo" />
+        <item itemvalue="Application.MainJFrame" />
+        <item itemvalue="Application.JMusic" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec6691d3-e263-4c1b-bf55-8cc87ca06701" name="Default Changelist" comment="" />
+      <created>1552646062092</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552646062092</updated>
+      <workItem from="1552646064949" duration="13666000" />
+      <workItem from="1552826784946" duration="4290000" />
+      <workItem from="1552995621885" duration="1115000" />
+      <workItem from="1553003859232" duration="4009000" />
+      <workItem from="1553042710555" duration="3446000" />
+      <workItem from="1553070351552" duration="4124000" />
+      <workItem from="1553082125081" duration="2346000" />
+      <workItem from="1553088627836" duration="2687000" />
+      <workItem from="1553169636502" duration="4373000" />
+      <workItem from="1553249319698" duration="3484000" />
+      <workItem from="1553253103840" duration="33160000" />
+      <workItem from="1553427591506" duration="4831000" />
+      <workItem from="1553510153020" duration="12694000" />
+      <workItem from="1553526755141" duration="598000" />
+      <workItem from="1553588234240" duration="2796000" />
+      <workItem from="1553595688962" duration="6785000" />
+      <workItem from="1553610143576" duration="2978000" />
+      <workItem from="1553686593051" duration="5579000" />
+      <workItem from="1553701971106" duration="227000" />
+      <workItem from="1553702223254" duration="32000" />
+      <workItem from="1553762029711" duration="1919000" />
+      <workItem from="1553777015144" duration="5467000" />
+      <workItem from="1553854235204" duration="7904000" />
+      <workItem from="1553945183098" duration="11482000" />
+      <workItem from="1554021806575" duration="792000" />
+      <workItem from="1554028757802" duration="1863000" />
+      <workItem from="1554125591750" duration="3449000" />
+      <workItem from="1554194421944" duration="21110000" />
+      <workItem from="1554363882095" duration="158000" />
+      <workItem from="1554364137299" duration="8085000" />
+      <workItem from="1554381850949" duration="17000" />
+      <workItem from="1554442126815" duration="4318000" />
+      <workItem from="1554621851986" duration="6000" />
+      <workItem from="1554723448080" duration="12850000" />
+      <workItem from="1554796461534" duration="10892000" />
+      <workItem from="1554897124049" duration="11293000" />
+      <workItem from="1554954339599" duration="216000" />
+      <workItem from="1554993554519" duration="3276000" />
+      <workItem from="1555064758261" duration="125000" />
+      <workItem from="1555066219060" duration="1967000" />
+      <workItem from="1555068245380" duration="246000" />
+      <workItem from="1555068550384" duration="4072000" />
+      <workItem from="1555226329965" duration="17681000" />
+      <workItem from="1555323967337" duration="7341000" />
+      <workItem from="1555408974775" duration="8900000" />
+      <workItem from="1555486340939" duration="9736000" />
+      <workItem from="1555552797911" duration="1216000" />
+      <workItem from="1555554069409" duration="835000" />
+      <workItem from="1555554940103" duration="388000" />
+      <workItem from="1555555376087" duration="1228000" />
+      <workItem from="1555556635502" duration="350000" />
+      <workItem from="1555565023033" duration="19355000" />
+      <workItem from="1555673007268" duration="10849000" />
+      <workItem from="1555724850505" duration="4897000" />
+      <workItem from="1555832823458" duration="12899000" />
+      <workItem from="1556004963247" duration="1965000" />
+      <workItem from="1556008230744" duration="90000" />
+      <workItem from="1556116948133" duration="5769000" />
+      <workItem from="1556157409757" duration="4286000" />
+      <workItem from="1556176768152" duration="14558000" />
+      <workItem from="1556245307716" duration="1898000" />
+      <workItem from="1556247409651" duration="536000" />
+      <workItem from="1556249831449" duration="1318000" />
+      <workItem from="1556272050210" duration="10336000" />
+      <workItem from="1556344302827" duration="15097000" />
+      <workItem from="1556439462532" duration="12935000" />
+      <workItem from="1556461449576" duration="5070000" />
+      <workItem from="1556535287254" duration="3970000" />
+      <workItem from="1556542125316" duration="4724000" />
+      <workItem from="1556546863093" duration="74000" />
+      <workItem from="1556546947647" duration="335000" />
+      <workItem from="1556547317060" duration="7050000" />
+      <workItem from="1556609413687" duration="9067000" />
+      <workItem from="1556623529697" duration="606000" />
+      <workItem from="1556625577000" duration="1293000" />
+      <workItem from="1556627173671" duration="346000" />
+      <workItem from="1556635216874" duration="3738000" />
+      <workItem from="1556796061452" duration="5293000" />
+      <workItem from="1556803256933" duration="3650000" />
+      <workItem from="1556868785800" duration="9752000" />
+      <workItem from="1556968832028" duration="9543000" />
+      <workItem from="1557030643057" duration="898000" />
+      <workItem from="1557057060767" duration="16727000" />
+      <workItem from="1557139358702" duration="5255000" />
+      <workItem from="1557151008994" duration="6461000" />
+      <workItem from="1557210590943" duration="4281000" />
+      <workItem from="1557215832370" duration="151000" />
+      <workItem from="1557216024021" duration="1827000" />
+      <workItem from="1557220312233" duration="3385000" />
+      <workItem from="1557227878238" duration="1706000" />
+      <workItem from="1557241529222" duration="2796000" />
+      <workItem from="1557291669471" duration="540000" />
+      <workItem from="1557322628335" duration="7330000" />
+      <workItem from="1557367552919" duration="2689000" />
+      <workItem from="1557372323917" duration="131000" />
+      <workItem from="1557387494419" duration="7919000" />
+      <workItem from="1557401672466" duration="1369000" />
+      <workItem from="1557407599538" duration="181000" />
+      <workItem from="1557413529005" duration="995000" />
+      <workItem from="1557419451104" duration="492000" />
+      <workItem from="1557453714744" duration="3440000" />
+      <workItem from="1557459155008" duration="303000" />
+      <workItem from="1557468058058" duration="1602000" />
+      <workItem from="1557469890718" duration="258000" />
+      <workItem from="1557483781579" duration="1809000" />
+      <workItem from="1557489589135" duration="2093000" />
+      <workItem from="1557494799736" duration="998000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="529337000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-16" y="36" width="1252" height="882" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27759197" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Image Layers" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49919355" weight="0.09154929" />
+      <window_info anchor="bottom" x="-56" y="732" width="1536" height="191" id="Run" order="2" sideWeight="0.74857146" weight="0.07559682" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.7362785" weight="0.052112676" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32816902" />
+      <window_info anchor="bottom" id="Database Console" order="7" weight="0.111267604" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32816902" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50066936" side_tool="true" weight="0.32957748" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.47188756" weight="0.115492955" />
+      <window_info anchor="bottom" id="Database Changes" order="12" sideWeight="0.49933067" weight="0.19577464" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Favorites" order="14" sideWeight="0.49933067" weight="0.13661972" />
+      <window_info anchor="bottom" id="Statistic" order="15" sideWeight="0.49933067" weight="0.08732394" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.02008032" />
+      <window_info anchor="right" x="724" y="108" width="170" height="607" id="Palette" order="4" type="WINDOWED" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.093708165" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" visible="true" weight="0.08232932" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34872824" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Image Layers" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49919355" weight="0.09154929" />
+      <window_info anchor="bottom" x="-56" y="732" width="1536" height="191" id="Run" order="2" sideWeight="0.74857146" visible="true" weight="0.10985915" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.7362785" weight="0.052112676" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32816902" />
+      <window_info anchor="bottom" id="Database Console" order="7" weight="0.111267604" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32816902" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50066936" side_tool="true" weight="0.32957748" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.47188756" weight="0.13098592" />
+      <window_info anchor="bottom" id="Database Changes" order="12" sideWeight="0.49933067" weight="0.19577464" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Favorites" order="14" sideWeight="0.49933067" weight="0.13661972" />
+      <window_info anchor="bottom" id="Statistic" order="15" sideWeight="0.49933067" weight="0.2761394" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.02008032" />
+      <window_info anchor="right" x="724" y="108" width="170" height="607" id="Palette" order="4" type="WINDOWED" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.093708165" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" visible="true" weight="0.08232932" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/2$JNoticeMain.ic" NAME="JNoticeMain Coverage Results" MODIFIED="1555510404534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>team.lj.Notice.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/2$JMainVote.ic" NAME="JMainVote Coverage Results" MODIFIED="1556200524041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>team.lj.Vote.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/2$Sound1.ic" NAME="Sound1 Coverage Results" MODIFIED="1556274790145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/2$updownfiles.ic" NAME="updownfiles Coverage Results" MODIFIED="1554445564331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>team.lj.UpDownFiles.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/team/lj/Log/JLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="29" column="11" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team/lj/Vote/JVote.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2850">
+          <caret line="197" column="57" selection-start-line="197" selection-start-column="57" selection-end-line="197" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://P:/Java/jdk-11.0.2/lib/src.zip!/java.desktop/java/awt/GridLayout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="165" column="11" selection-start-line="165" selection-start-column="11" selection-end-line="165" selection-end-column="11" />
+          <folding>
+            <element signature="e#5031#5032#0" expanded="true" />
+            <element signature="e#5069#5070#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://P:/Java/jdk-11.0.2/lib/src.zip!/java.desktop/javax/swing/JPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="93" column="11" selection-start-line="93" selection-start-column="11" selection-end-line="93" selection-end-column="11" />
+          <folding>
+            <element signature="e#2453#2454#0" expanded="true" />
+            <element signature="e#2487#2488#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team/lj/Tanke/UI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4455">
+          <caret line="311" column="30" selection-start-line="311" selection-start-column="30" selection-end-line="311" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team/lj/Tanke/Tank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team/lj/Tanke/Steel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team/lj/Tanke/River.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team/lj/Tanke/Music.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team/lj/Tanke/Grass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team/lj/Tanke/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="334" column="42" selection-start-line="334" selection-start-column="42" selection-end-line="334" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team/lj/Tanke/Wall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team/lj/DrawPic/ImageBoard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="205" column="12" selection-start-line="205" selection-start-column="12" selection-end-line="205" selection-end-column="12" />
+          <folding>
+            <element signature="e#1283#1542#0" expanded="true" />
+            <element signature="e#1541#1542#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team/lj/DrawPic/ScreenImage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="24" column="11" lean-forward="true" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team/lj/DrawPic/ScreenSavers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3447">
+          <caret line="45" column="41" lean-forward="true" selection-start-line="45" selection-start-column="41" selection-end-line="45" selection-end-column="41" />
+          <folding>
+            <element signature="e#12718#12719#0" expanded="true" />
+            <element signature="e#12795#12796#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team/lj/DrawPic/Pencil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="2" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team/lj/Log/LogClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="14" column="55" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team/lj/PersonalInfo/PersonalInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-150">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team/lj/UpDownFiles/TcpSocketClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team/lj/UpDownFiles/TCPsetting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team/lj/Vote/MakeVoteSocket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team/lj/Vote/UpdateVote.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="43" column="56" selection-start-line="43" selection-start-column="56" selection-end-line="43" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team/lj/Vote/VoteInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/META-INF/MANIFEST.MF" />
+    <entry file="file://$PROJECT_DIR$/src/team/lj/Vote/VoteSocket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team/lj/UpDownFiles/TCPSingleClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="25" column="51" selection-start-line="25" selection-start-column="51" selection-end-line="25" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team/lj/Music/JMusic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="17" column="62" selection-start-line="17" selection-start-column="62" selection-end-line="17" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team/lj/Music/Sound1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="58" column="20" selection-start-line="58" selection-start-column="20" selection-end-line="58" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/班级2/src/team/lj/JFrame/MainJFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2161">
+          <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/班级2/src/team/lj/JFrame/LoginJframe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team/lj/JFrame/ManageInfoSocket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="81" column="12" selection-start-line="81" selection-start-column="12" selection-end-line="81" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team/lj/Communction/CommClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team/lj/Communction/Msginfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="18" column="25" selection-start-line="17" selection-start-column="26" selection-end-line="18" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team/lj/UpDownFiles/updownfiles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="519">
+          <caret line="170" column="5" selection-start-line="90" selection-start-column="3" selection-end-line="170" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team/lj/Notice/NoticeSocket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="519">
+          <caret line="67" column="4" selection-start-line="67" selection-start-column="4" selection-end-line="67" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team/lj/Tetris/I.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team/lj/Tetris/J.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team/lj/Notice/JNoticeMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team/lj/JFrame/MainJFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="82" column="40" selection-start-line="82" selection-start-column="40" selection-end-line="82" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team/lj/Vote/JMainVote.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-159">
+          <caret line="42" column="28" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team/lj/Communction/JChat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1854">
+          <caret line="170" column="33" selection-start-line="170" selection-start-column="33" selection-end-line="170" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team/lj/Tetris/Cell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="22" column="56" selection-start-line="22" selection-start-column="56" selection-end-line="22" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team/lj/Tetris/L.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team/lj/Tetris/O.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team/lj/Tetris/TetrisJFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team/lj/Tetris/Tetromino.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team/lj/PersonalInfo/MyInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team/lj/JFrame/LoginJframe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="124" column="9" selection-start-line="124" selection-start-column="9" selection-end-line="124" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team/lj/Communction/JCommunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="101" column="22" selection-start-line="101" selection-start-column="22" selection-end-line="101" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>班级2:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>班级2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>KotlinJavaRuntime</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

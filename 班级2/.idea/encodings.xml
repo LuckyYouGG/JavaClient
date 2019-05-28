@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/team/lj/Communction/JCommunction.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/team/lj/DrawPic/ImageBoard.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/team/lj/DrawPic/Pencil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/team/lj/DrawPic/ScreenImage.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/team/lj/Tanke/UI.java" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
